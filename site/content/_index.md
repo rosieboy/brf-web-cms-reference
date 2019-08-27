@@ -20,11 +20,11 @@ intro:
     disputando an.
 products: []
 values:
-  heading: Our values
+  heading: Another Heading
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    Vix singulis definitiones ne. Ea dicam reprimique quo. At nec quodsi
+    volutpat, ut bonorum albucius efficiantur usu. Eum ut suscipit consetetur,
+    no nec voluptua placerat vituperata. Error voluptua prodesset ut cum. Mel
+    idque iuvaret nonumes ne, viderer debitis fastidii te usu.
 ---
 
