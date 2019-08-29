@@ -1,5 +1,5 @@
 ---
-title: Great Title Goes Here
+title: Välkommen
 subtitle: Space For A Subtitle
 image: /img/home-jumbotron.jpg
 blurb:
