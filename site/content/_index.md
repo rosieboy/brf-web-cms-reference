@@ -1,20 +1,30 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: Välkommen
+subtitle: Space For A Subtitle
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Heading
+  text: >-
+    Lorem ipsum dolor sit amet, vix denique incorrupte argumentum ex, ad tale
+    prompta vituperata per. Habeo labore complectitur nam cu, cu facilis docendi
+    maluisset eam. Mediocrem referrentur cum no, usu at propriae repudiare. Eam
+    tale diam salutatus eu, usu no falli laoreet, dicit quodsi inciderint ius
+    cu.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  heading: Introduction of some sort
+  text: >-
+    Vel possim dolorem id, at molestie apeirian sea. Vidisse commune vituperata
+    his in, ad vix aperiri suscipit, ceteros tractatos patrioque vel in. Mea
+    congue probatus inimicus ne, an mei liber delectus. Dico lorem elaboraret
+    eam et. Eos ea quas nusquam vivendum, an cum soluta volumus, eum harum
+    disputando an.
+products: []
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Another Heading
+  text: >-
+    Vix singulis definitiones ne. Ea dicam reprimique quo. At nec quodsi
+    volutpat, ut bonorum albucius efficiantur usu. Eum ut suscipit consetetur,
+    no nec voluptua placerat vituperata. Error voluptua prodesset ut cum. Mel
+    idque iuvaret nonumes ne, viderer debitis fastidii te usu.
 ---
 
