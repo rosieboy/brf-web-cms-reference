@@ -1,6 +1,6 @@
 ---
 title: Välkommen
-subtitle: Space For A Subtitle
+subtitle: Underrubrik ska vara här
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Heading
